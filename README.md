@@ -1,7 +1,7 @@
 # PHP-dynamic-site-example
 A fictional site to demonstrate how to dynamically manage a website with php and mysql
 
-import the pht.sql file into a mysql database and create a user with propper proper access to the database.
+import the pht.sql file into a mysql database and create a user with propper access to the database.
 
 Enter the user's credentials in the pht/includes/db.html.php file.
 
